@@ -52,28 +52,6 @@ Students are flagged as at-risk if:
 
 ---
 
-## 📂 Project Structure
-
-```text
-student-performance-analytics/
-│
-├── Data/
-│   └── student_data.csv
-│
-├── Database/
-│   └── student.db
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── app.py
-├── create_db.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## ⚙️ Installation
 
 ### Clone Repository
