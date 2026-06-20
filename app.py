@@ -19,7 +19,7 @@ st.set_page_config(page_title="Student Performance Analytics",
 st.title("📊 Student Performance Analytics Dashboard")
 st.caption("SQLite + Pandas + Streamlit")
 
-DB_PATH = os.path.join("database", "student.db")
+DB_PATH = os.path.join("Database", "student.db")
 
 @st.cache_data
 def load_data():
